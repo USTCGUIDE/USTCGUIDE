@@ -1,0 +1,3 @@
+# 信智学部专业课
+
+<table data-card-size="large" data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa.md">shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa.md</a></td><td></td><td></td><td></td></tr><tr><td><a href="ji-suan-ji-wang-luo.md">ji-suan-ji-wang-luo.md</a></td><td></td><td></td><td></td></tr><tr><td><a href="ji-suan-xi-tong-gai-lun-todo.md">ji-suan-xi-tong-gai-lun-todo.md</a></td><td></td><td></td><td></td></tr><tr><td><a href="mi-ma-xue-dao-lun-todo.md">mi-ma-xue-dao-lun-todo.md</a></td><td></td><td></td><td></td></tr></tbody></table>
