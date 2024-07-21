@@ -1,46 +1,69 @@
 # Table of contents
 
-* [你好，这里是USTC生存手册](README.md)
+## 开始 <a href="#start" id="start"></a>
 
-## 声明与序
+* [再版序](README.md)
+* [初版序](start/perface1.md)
+* [更新日志与编者名单](start/geng-xin-ri-zhi-yu-bian-zhe-ming-dan.md)
+* [USTCGUIDE系列](start/ustcguide-xi-lie/README.md)
+  * [USTC课程资料簿](start/ustcguide-xi-lie/coursedata.md)
+  * [USTC生存手册（TODO）](start/ustcguide-xi-lie/ustc-sheng-cun-shou-ce-todo.md)
 
-* [声明](sheng-ming-yu-xu/sheng-ming.md)
-* [序](sheng-ming-yu-xu/xu.md)
-* [USTCGUIDE系列](sheng-ming-yu-xu/ustcguide-xi-lie/README.md)
-  * [USTC不完全入学指南](sheng-ming-yu-xu/ustcguide-xi-lie/ustc-bu-wan-quan-ru-xue-zhi-nan.md)
-  * [USTC课程资料簿](sheng-ming-yu-xu/ustcguide-xi-lie/ustc-ke-cheng-zi-liao-bo.md)
+## 学习 <a href="#study" id="study"></a>
 
-## 现在，你已经是个USTCer了
+* [教务系统、选课](study/jiao-wu-xi-tong-xuan-ke.md)
+* [培养方案、课程替代、教学日历](study/pei-yang-fang-an-ke-cheng-ti-dai-jiao-xue-ri-li.md)
+* [成绩](study/cheng-ji.md)
+* [放弃修读、放弃成绩、及格重修](study/fang-qi-xiu-du-fang-qi-cheng-ji-ji-ge-chong-xiu.md)
+* [自习场所研讨室](study/zi-xi-chang-suo-yan-tao-shi.md)
+* [转专业、分流、个性化](study/zhuan-zhuan-ye-fen-liu-ge-xing-hua.md)
+* [一些工具](study/yi-xie-gong-ju.md)
+* [蜗壳小道消息](study/wo-ke-xiao-dao-xiao-xi.md)
 
-* [身份转变与思维转变](xian-zai-ni-yi-jing-shi-ge-ustcer-liao/shen-fen-zhuan-bian-yu-si-wei-zhuan-bian/README.md)
-  * [你是一名大学生](xian-zai-ni-yi-jing-shi-ge-ustcer-liao/shen-fen-zhuan-bian-yu-si-wei-zhuan-bian/ni-shi-yi-ming-da-xue-sheng.md)
-  * [跳脱高中思维，培养核心能力](xian-zai-ni-yi-jing-shi-ge-ustcer-liao/shen-fen-zhuan-bian-yu-si-wei-zhuan-bian/tiao-tuo-gao-zhong-si-wei-pei-yang-he-xin-neng-li.md)
-* [充满魔法的南七技校](xian-zai-ni-yi-jing-shi-ge-ustcer-liao/chong-man-mo-fa-de-nan-qi-ji-xiao/README.md)
-  * [什么事中国数学物理大学](xian-zai-ni-yi-jing-shi-ge-ustcer-liao/chong-man-mo-fa-de-nan-qi-ji-xiao/shen-me-shi-zhong-guo-shu-xue-wu-li-da-xue.md)
-  * [评价体系与自我认知](xian-zai-ni-yi-jing-shi-ge-ustcer-liao/chong-man-mo-fa-de-nan-qi-ji-xiao/ping-jia-ti-xi-yu-zi-wo-ren-zhi.md)
-* [信息茧房与信息辨识能力](xian-zai-ni-yi-jing-shi-ge-ustcer-liao/xin-xi-jian-fang-yu-xin-xi-bian-shi-neng-li.md)
-* [持续学习的精神](xian-zai-ni-yi-jing-shi-ge-ustcer-liao/chi-xu-xue-xi-de-jing-shen.md)
+## 校园一卡通 <a href="#card" id="card"></a>
 
-## 如果我可以愉快的生存
+* [一卡通是什么？](card/yi-ka-tong-shi-shen-me.md)
+* [充值方式](card/chong-zhi-fang-shi.md)
+* [挂失与补办](card/gua-shi-yu-bu-ban.md)
+* [用水计费](card/yong-shui-ji-fei.md)
+* [限制消费](card/xian-zhi-xiao-fei.md)
+* [一卡通对应手机号的查询与修改](card/yi-ka-tong-dui-ying-shou-ji-hao-de-cha-xun-yu-xiu-gai.md)
+* [小工具与温馨提示](card/xiao-gong-ju-yu-wen-xin-ti-shi.md)
 
-* [选课漫谈](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/xuan-ke-man-tan/README.md)
-  * [选课的原则与技巧](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/xuan-ke-man-tan/xuan-ke-de-yuan-ze-yu-ji-qiao.md)
-  * [评课社区 or 给分社区](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/xuan-ke-man-tan/ping-ke-she-qu-or-gei-fen-she-qu.md)
-  * [代抢与换班](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/xuan-ke-man-tan/dai-qiang-yu-huan-ban.md)
-* [自由地转专业](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/zi-you-di-zhuan-zhuan-ye/README.md)
-  * [转专业的方式与意义](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/zi-you-di-zhuan-zhuan-ye/zhuan-zhuan-ye-de-fang-shi-yu-yi-yi.md)
-  * [新工科转专业碎语](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/zi-you-di-zhuan-zhuan-ye/xin-gong-ke-zhuan-zhuan-ye-sui-yu.md)
-* [如何速通一门课](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/ru-he-su-tong-yi-men-ke/README.md)
-  * [考试为导向的复习](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/ru-he-su-tong-yi-men-ke/kao-shi-wei-dao-xiang-de-fu-xi.md)
-  * [认清速通的可能后果](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/ru-he-su-tong-yi-men-ke/ren-qing-su-tong-de-ke-neng-hou-guo.md)
-* [反对无目标的内卷](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/fan-dui-wu-mu-biao-di-nei-juan/README.md)
-  * [你真的需要那么多GPA吗？](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/fan-dui-wu-mu-biao-di-nei-juan/ni-zhen-de-xu-yao-na-me-duo-gpa-ma.md)
-  * [什么是“科大式内卷”](ru-guo-wo-ke-yi-yu-kuai-de-sheng-cun/fan-dui-wu-mu-biao-di-nei-juan/shen-me-shi-ke-da-shi-nei-juan.md)
+## 住宿、通行与通讯 <a href="#accommodation-access-communication" id="accommodation-access-communication"></a>
 
-## 访谈录
+* [住宿（中区）](accommodation-access-communication/zhu-su-zhong-qu.md)
+* [通行](accommodation-access-communication/tong-xing.md)
+* [邮政通讯](accommodation-access-communication/you-zheng-tong-xun.md)
 
-* [话题：聊聊你的专业](fang-tan-lu/hua-ti-liao-liao-ni-de-zhuan-ye.md)
-* [话题：聊聊你在科大做过的事](fang-tan-lu/hua-ti-liao-liao-ni-zai-ke-da-zuo-guo-de-shi.md)
-* [话题：聊聊你上过的课](fang-tan-lu/hua-ti-liao-liao-ni-shang-guo-de-ke/README.md)
-  * [关于我和科大公选课的故事](fang-tan-lu/hua-ti-liao-liao-ni-shang-guo-de-ke/guan-yu-wo-he-ke-da-gong-xuan-ke-de-gu-shi.md)
-* [话题：聊聊你的生活经历与经验](fang-tan-lu/hua-ti-liao-liao-ni-de-sheng-huo-jing-li-yu-jing-yan.md)
+## 体育、健康与娱乐 <a href="#sports-health-entertainment" id="sports-health-entertainment"></a>
+
+* [体育活动场所](sports-health-entertainment/ti-yu-huo-dong-chang-suo.md)
+* [医院与健康](sports-health-entertainment/yi-yuan-yu-jian-kang.md)
+* [社团与娱乐](sports-health-entertainment/she-tuan-yu-yu-le.md)
+
+## 购物与饮食 <a href="#shoping-eating" id="shoping-eating"></a>
+
+* [本节声明](shoping-eating/ben-jie-sheng-ming.md)
+* [校内汇总](shoping-eating/xiao-nei-hui-zong/README.md)
+  * [中区](shoping-eating/xiao-nei-hui-zong/zhong-qu.md)
+  * [东区](shoping-eating/xiao-nei-hui-zong/dong-qu.md)
+  * [西区](shoping-eating/xiao-nei-hui-zong/xi-qu.md)
+  * [高新区](shoping-eating/xiao-nei-hui-zong/gao-xin-qu.md)
+* [早饭特辑](shoping-eating/zao-fan-te-ji.md)
+* [校内食堂联系方式及维权](shoping-eating/xiao-nei-shi-tang-lian-xi-fang-shi-ji-wei-quan.md)
+* [学校附近饮食](shoping-eating/xue-xiao-fu-jin-yin-shi.md)
+* [校外购物杂谈](shoping-eating/xiao-wai-gou-wu-za-tan.md)
+* [肥西路夜宵](shoping-eating/fei-xi-lu-ye-xiao.md)
+* [奶茶店](shoping-eating/nai-cha-dian.md)
+* [外卖](shoping-eating/wai-mai.md)
+
+## 入学考试、英才班、军训 <a href="#freshman" id="freshman"></a>
+
+* [入学考试](freshman/ru-xue-kao-shi.md)
+* [英才班](freshman/ying-cai-ban.md)
+* [军训与军事理论课](freshman/jun-xun-yu-jun-shi-li-lun-ke.md)
+
+## 致谢与结语 <a href="#thanks-end" id="thanks-end"></a>
+
+* [结语](thanks-end/jie-yu.md)
