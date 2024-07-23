@@ -1,4 +1,12 @@
-# 更新日志与编者名单
+# 声明、更新日志、编者名单
+
+## 声明
+
+《USTC不完全入学指南》（曾用名《中科大不完全入学指南》）属于USTCGUIDE系列，版权归属USTCGUIDE编辑部。
+
+请注意，本作品符合 CC 4.0 BY-NC-SA 许可，在转载、复制、引用等行为时，需要标注本作品网址（ustcguide.gitbook.io/admission）和版权所属（USTCGUIDE编辑部）。
+
+
 
 ## 更新日志
 

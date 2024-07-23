@@ -4,7 +4,7 @@
 
 * [再版序](README.md)
 * [初版序](start/perface1.md)
-* [更新日志与编者名单](start/geng-xin-ri-zhi-yu-bian-zhe-ming-dan.md)
+* [声明、更新日志、编者名单](start/sheng-ming-geng-xin-ri-zhi-bian-zhe-ming-dan.md)
 * [USTCGUIDE系列](start/ustcguide-xi-lie/README.md)
   * [USTC课程资料簿](start/ustcguide-xi-lie/coursedata.md)
   * [USTC生存手册（TODO）](start/ustcguide-xi-lie/ustc-sheng-cun-shou-ce-todo.md)
