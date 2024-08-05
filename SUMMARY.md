@@ -11,12 +11,10 @@
   * [USTC不完全入学指南](start/ustcguide/admission.md)
   * [USTC生存手册（TODO）](start/ustcguide/ustc-sheng-cun-shou-ce-todo.md)
 
-## USTCGUIDE系列 <a href="#ustcguide" id="ustcguide"></a>
-
 ## 课程资料
 
 * [大一必看](ke-cheng-zi-liao/da-yi-bi-kan/README.md)
-  * [入学考（TODO）](ke-cheng-zi-liao/da-yi-bi-kan/ru-xue-kao-todo.md)
+  * [入学考](ke-cheng-zi-liao/da-yi-bi-kan/ru-xue-kao-todo.md)
   * [数学分析B1\&B2](ke-cheng-zi-liao/da-yi-bi-kan/page.md)
   * [线性代数B1](ke-cheng-zi-liao/da-yi-bi-kan/xian-xing-dai-shu.md)
   * [力学](ke-cheng-zi-liao/da-yi-bi-kan/li-xue.md)
