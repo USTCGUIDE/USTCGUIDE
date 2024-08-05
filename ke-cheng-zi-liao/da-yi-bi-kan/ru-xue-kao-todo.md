@@ -8,7 +8,7 @@
 [入学考试](https://app.gitbook.com/s/e4i7uWJkYelGp4V3Z0bq/freshman/ru-xue-kao-shi)
 {% endcontent-ref %}
 
-## 真题
+## 真题与资料
 
 * 数学
   * [2013年入学考数学](https://easylink.cc/ghqimy)
@@ -22,10 +22,14 @@
   * [2023年入学考数学（含答案）](https://easylink.cc/5zf2s)
   * [入学考数学考试部分年份参考答案【赵弈】](https://easylink.cc/4n0w6e)
 * 物理
+  * [2017年入学考物理](https://easylink.cc/i9ufas)
+  * [2018年入学考物理](https://easylink.cc/l2x848)
   * [2022年入学考物理答案手写](https://easylink.cc/mgh2yn)
 * 英语
   * [2022年入学考英语](https://easylink.cc/6ahamh)
 *   计算机
 
     * [2022年入学考计算机](https://easylink.cc/witlr)
+    * [2023年入学考计算机](https://easylink.cc/2udfn3)
+    * [计算机入学考资料](https://easylink.cc/q4k5vx)
 
