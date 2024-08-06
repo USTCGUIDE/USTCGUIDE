@@ -13,7 +13,9 @@
 
 * [线性代数B1真题集](https://easylink.cc/pgfes9)
 * [线性代数B1部分真题手写答案](https://easylink.cc/3ufe70)
+* [线性代数B1真题及参考解答【花开花败】](https://easylink.cc/gbm8v8)
 
 ## 笔记与其他
 
 * [线性代数B1【童伟华】2022春](https://easylink.cc/gamtkc)
+* [线性代数B1习题讲义](https://easylink.cc/cm5v3t)
