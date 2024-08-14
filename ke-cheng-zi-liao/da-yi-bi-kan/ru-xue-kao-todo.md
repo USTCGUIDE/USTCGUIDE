@@ -25,6 +25,7 @@
   * [2017年入学考物理](https://easylink.cc/i9ufas)
   * [2018年入学考物理](https://easylink.cc/l2x848)
   * [2022年入学考物理答案手写](https://easylink.cc/mgh2yn)
+  * [2023年入学考物理](https://easylink.cc/6i5jq0)
 * 英语
   * [2022年入学考英语](https://easylink.cc/6ahamh)
 *   计算机

@@ -2,6 +2,7 @@
 
 ### 更新日志 <a href="#geng-xin-ri-zhi" id="geng-xin-ri-zhi"></a>
 
+* 2024 年 8 月 5 日：正式发布
 * 2024 年 6 月 30 日：gitbook开始搭建。
 * 2024 年 5 月：项目规划启动
 
